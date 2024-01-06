@@ -1,0 +1,44 @@
+/* Existing styles */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table th,
+table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+button#deleteButton {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #c62828;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button#deleteButton:hover {
+  background-color: #e53935;
+}
+
+.button-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.button-container button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;}
+
+  
